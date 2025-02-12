@@ -25,7 +25,10 @@ The board plays audio from a microSD card and allows easy file transfers via USB
   - **Storage**: Flash  
   - **Peripheral**: FMC (Flexible Memory Controller)  
 - **Graphics Library**: LVGL  
-- **UI Design Tool**: SquareLine Studio  
+- **UI Design Tool**: SquareLine Studio
+
+- 
+![setup](https://github.com/AndreyPodlesni/STM32_MP3_PLAYER/blob/main/board.jpg?raw=true)
 
 ## STM32F429 DISCO1 Evaluation Board
 The DISCO1 was chosen because it includes all the necessary peripherals for prototyping the project. It features an SDIO interface for SD card connectivity, a USB peripheral for straightforward USB device development, an integrated TFT display based on the ILI9341, onboard flash memory connected via the FMC peripheral, and an LTDC peripheral capable of providing the required data lines for the display driver And  designed to manage display output efficiently.
