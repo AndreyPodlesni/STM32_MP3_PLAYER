@@ -8,6 +8,9 @@ the project uses the following hardware
 ## Current Operation  
 The board plays audio from a microSD card and allows easy file transfers via USB. When connected to a PC, the microSD card appears as a mass storage device. Audio output is handled by an MP3 decoder module with a 3.5mm headphone jack. On power-up, the board starts playing a song, and pressing the blue user button skips to the next track.  
 
+
+[![STM32 MP3 Player](https://github.com/AndreyPodlesni/STM32_MP3_PLAYER/blob/main/Thumbnail.jpg?raw=true)](https://www.youtube.com/watch?v=TIzKGpkJbzY)
+
 ## Hardware Specifications  
 - **Microcontroller**: STM32F429 DISCO1 Evaluation Board  
 - **Operating System**: FreeRTOS  
