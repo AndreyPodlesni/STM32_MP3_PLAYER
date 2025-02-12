@@ -1,6 +1,0 @@
-../Core/Src/MP3_FileHandaling.c:12:9:Scan_SD_MP3	496	static
-../Core/Src/MP3_FileHandaling.c:55:6:FreeFileList	16	static
-../Core/Src/MP3_FileHandaling.c:63:6:PrintMp3List	16	static
-../Core/Src/MP3_FileHandaling.c:72:6:PrintShufledMp3List	16	static
-../Core/Src/MP3_FileHandaling.c:81:6:createUniqueRandomArray	40	static
-../Core/Src/MP3_FileHandaling.c:104:6:ShuffleList	16	static
