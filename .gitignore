@@ -1,0 +1,26 @@
+# Ignore STM32CubeIDE build files
+.settings/
+Debug/
+Release/
+*.bin
+*.hex
+*.elf
+*.o
+*.d
+*.dep
+*.list
+*.map
+*.srec
+*.bak
+*.user
+*.obj
+*.log
+*.out
+
+# Ignore Eclipse/CubeIDE project settings
+*.launch
+.cproject
+.project
+.mxproject
+
+
